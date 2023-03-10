@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://alliedono.github.io/the-speed-of-darkness/the-speed-of-darkenss/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "the speed of darkenss" ] },
+    "items": [
+      {
+        "id": "https://alliedono.github.io/the-speed-of-darkness/the-speed-of-darkenss/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 6;12,
+        "items": [
+          {
+            "id": "https://alliedono.github.io/the-speed-of-darkness/the-speed-of-darkenss/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://alliedono.github.io/the-speed-of-darkness/the-speed-of-darkenss/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601604.us.archive.org/21/items/speed-of-darkness_202303/Speed%20of%20Darkness.mp",
+                    "duration": 6;12
+                },
+                "target": "https://alliedono.github.io/the-speed-of-darkness/the-speed-of-darkenss/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
