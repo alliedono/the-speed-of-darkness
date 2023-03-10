@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: the speed of darkenss
 manifest_name: the-speed-of-darkenss
 permalink: the-speed-of-darkenss
