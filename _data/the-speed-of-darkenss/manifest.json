@@ -67,7 +67,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://ia601604.us.archive.org/21/items/speed-of-darkness_202303/Speed%20of%20Darkness.mp",
+                  "id": "https://ia601604.us.archive.org/21/items/speed-of-darkness_202303/Speed%20of%20Darkness.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
                     "duration": 371.0
                 },
                 "target": "https://alliedono.github.io/the-speed-of-darkness/the-speed-of-darkenss/canvas-1/canvas"
